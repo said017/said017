@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently working on Telkomsel as Pre-Sales Engineer, working on cloud portfolio (Azure, AWS, On-premise etc.)
+- I'm currently learning Web3 stacks (Solidity, Truffle, Hardhat, Next Js, etc.)
+
+⚡ Will update my journey soon on this page
+
