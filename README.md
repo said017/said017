@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - I’m currently working on Telkomsel as Pre-Sales Engineer, working on cloud portfolio (Azure, AWS, On-premise etc.)
 - I'm currently learning Web3 stacks (Solidity, Truffle, Hardhat, Next Js, etc.)
+- I'm currently building **8Chiq**, 9gag clone using NFT as a backend in <a href="https://github.com/said017/8chiq"> here (8Chiq) </a>
 
 ⚡ Will update my journey soon on this page
 
