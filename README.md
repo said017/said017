@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Latest Blog Post
+### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a Blockchain & NFT based 9Gag Clone and Meme Marketplace](https://medium.com/coinmonks/how-i-built-a-blockchain-nft-based-9gag-clone-and-meme-marketplace-24fb6a235334)
@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/said017"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=said017&theme=radical&title_color=fffff"></a>
   <a href="https://github.com/said017"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=said017&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=fffff&fire=fffff&sideNums=fffff"></a>
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=said017.said017)
 
