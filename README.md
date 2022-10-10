@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 - I’m currently working at Telkomsel Indonesia as Pre-Sales Engineer, involved on Cloud Portfolio (Azure, AWS, On-premise etc.)
 - I'm currently learning Web3 stacks (Solidity, Truffle, Hardhat, Next Js, etc.)
-- I'm building **8Chiq**, 9gag clone using NFT as a backend in <a href="https://github.com/said017/8chiq"> this (8Chiq) </a> repo
+- I've built **8Chiq**, 9gag clone using NFT as a backend in <a href="https://github.com/said017/8chiq"> this (8Chiq) </a> repo
 - My Solidity learning notes as i built **8Chiq** <a href="https://www.notion.so/Study-Journal-b0e4630040f74a759a437e5731512df0?v=99e4ac9e5ebd4301bd1784943bc37230&p=025a76ef4bb74b56987793355f3c7132"> in this Notion journal </a>.
 - built Moralis backend version of NFT Marketplace in <a href="https://github.com/said017/nft-marketplace-moralis-be"> this repo </a>.
+- I'm currently building Ciriverse - NFTs Based Engagement Platform for streamers in <a href="https://github.com/Ciriverse/"> this repo </a>.
 
 <br />
 
