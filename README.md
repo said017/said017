@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a Blockchain & NFT based 9Gag Clone and Meme Marketplace](https://medium.com/coinmonks/how-i-built-a-blockchain-nft-based-9gag-clone-and-meme-marketplace-24fb6a235334)
 - [Comprehensive Hardhat Solidity Environment Setup for Beginners](https://medium.com/coinmonks/comprehensive-hardhat-solidity-environment-setup-for-beginners-2a284706beaa)
+- [OpenZeppelin Ethernaut Solutions](https://medium.com/coinmonks/openzeppelin-ethernaut-solutions-ebda8b073b6f)
 
 ⚡ Will continue update my journey on this page
 
